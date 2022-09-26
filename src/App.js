@@ -3,21 +3,16 @@ import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div >
+         <h1>Best Crypto Picks</h1>
+        <ul>
+          <li>Name</li>
+          <li>Name1</li>
+        </ul>
+        <h2><a href="https://labs.binance.com/">Binance Labs</a> - Coins</h2>
+        <p>My site lists coins from Binance Labs</p>
+        <h2><a href="https://coin98.com/">coin 98</a></h2>
+        <p>defi coin</p>
     </div>
   );
 }
