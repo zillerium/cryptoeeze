@@ -15,6 +15,10 @@ function Navbar() {
           <Link to="/coin98">Coin98</Link>
         </li>
         <li>
+          <Link to="/figment">Figment</Link>
+        </li>
+
+        <li>
           <Link to="/gatnetwork">GatNetwork</Link>
         </li>
       </ul>
