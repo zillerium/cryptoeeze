@@ -15,6 +15,11 @@ function Coins() {
             <a href="/zecrey">zecrey</a><br />
             <a href="/pstake">pstake</a><br />
             <a href="/meritcircle">merit circle</a><br />
+            <a href="/voxies">voxies</a><br />
+            <a href="/symbiosis">symbiosis</a><br />
+            <a href="/myneighbouralice">my neighbour alice</a><br />
+            <a href="/nym">nym</a><br />
+            <a href="/reef">reef</a><br />
             
         </div>
     );
